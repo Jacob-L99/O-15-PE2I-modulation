@@ -1,3 +1,5 @@
+Normladatan måste ligga i en mapp på skrivbordet, med namnet 'Normaldata'
+
 O-15 Vatten:
 
 Programmet läser in en (eller två) dicom mappar eller .nii filer 
