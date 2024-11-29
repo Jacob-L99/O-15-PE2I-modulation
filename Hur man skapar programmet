@@ -1,1 +1,21 @@
+(Skrivet i python 3.9)
 
+För att skapa .exe fil:
+
+Ladda ner auto-py-tp-exe
+
+Skriv in "auto-py-to-exe" i din virituella miljö med python 3.9
+
+Script location: Välj "Huvud_program.py"
+
+Välj "One File"
+
+Välj "Window Based (hide the console)"
+
+Lägg till icon (frivillig) (i .ico format)
+
+Additional Files: Välj "Add Files" och välj alla filer och scripts som finns här förutom "Huvud_program.py"
+
+Strata genom att trycka på "CONVERT .PY TO .EXE"
+
+Filen genereras och finns sedan under "C:\Users'namn'\output"
